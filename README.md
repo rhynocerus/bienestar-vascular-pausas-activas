@@ -81,6 +81,9 @@ bienestar-vascular/
 npm test        # o: node --test
 ```
 
+## 📄 Licencia
+Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo [`LICENSE`](LICENSE) para ver los términos completos.
+
 ## 🔒 Privacidad
 Toda la información se guarda **solo en tu dispositivo** (`localStorage` en la web, `chrome.storage.local` en la extensión). Sin cuentas, sin nube, sin seguimiento. Consulta la **[política de privacidad](https://alexandra-caceres-ayala.github.io/bienestar-vascular-pausas-activas/privacy.html)**.
 
